@@ -152,7 +152,7 @@ nav{
   section{
     height: 500px;
     width: 100%;
-    background-image: url(images/slider-main/bg2.jpg);
+    background-image: url(bg2.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
   }
